@@ -6,7 +6,7 @@ I love Python.🐍i got to know about it when I was in grade 6 and tried to lear
 - 🟣Accompanied by C programming
 - 🟢Wanna get to know Anaconda🐍, but it's outta my league right now
 - (lowkey, liking the snakes in programming)
-- ​🚀 Projects
+# ​🚀 Projects
 ​Fee Management System: A Python-based tool to automate fee calculations for students based on their grade level.
 ## would love to see your work and show mine
 ## peace out!😚
