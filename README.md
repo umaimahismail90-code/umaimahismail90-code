@@ -5,6 +5,6 @@ I love Python.🐍i got to know about it when I was in grade 6 and tried to lear
 😑I have subtle experience in html 
 🫢accompanied by C programming
 😮‍💨passionate about Anaconda🐍, but it's outta my league right now
-# physically in karachi, mentally? lost
-# stay delusional!
-# peace out!😚
+## physically in karachi, mentally? lost
+## stay delusional!
+## peace out!😚
