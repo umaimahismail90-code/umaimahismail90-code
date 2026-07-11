@@ -1,31 +1,31 @@
-# 🌟 Welcome to Umaimah's Coding Lab! 🚀
+# Hi! I'm Umaimah! 👋🐍
 
-I'm a teen developer, a Python enthusiast, and a proud "delusional" dreamer turning logic into reality. 🐍✨
+I’m a 16-year-old developer with a serious passion for Python and a healthy dose of "delusional" ambition. I’ve been tinkering with code since grade 6, and I’m currently on a mission to turn my ideas into reality—one script at a time! 🚀
+
+---
 
 ### 🛠 My Tech Stack
-🐍 **Python** | ⚙️ **C** | 🌐 **HTML** | 🧪 **Learning: Anaconda**
+| Language | Vibe |
+| :--- | :--- |
+| **Python** | My coding soulmate 🐍 |
+| **C** | The sturdy foundation ⚙️ |
+| **HTML** | Making it look good 🌐 |
+| **Anaconda** | My upcoming "Final Boss" level 🧪 |
 
 ---
 
-### 🚀 Featured Project: Fee Management System
-Automating the boring stuff, one function at a time! 
-[Check it out here!](https://github.com/Umaimah/fee-management-system)
+### 🚀 My Projects
+Check out what I’m building:
+
+**[Fee Management System](https://github.com/Umaimah/fee-management-system)** 💰
+*   An automated tool for calculating student fees based on grade levels.
+*   *Built with: Python*
 
 ---
 
-### 🧠 Current Vibe
-*   **Reading:** Everything Python.
-*   **Coding:** Solving problems, one bug at a time.
-*   **Goal:** To build software that actually matters.
+### ✌️ Let's Connect!
+I’m always looking to share ideas and learn from others. If you see something you like, let’s talk!
 
----
+*   **Motto:** "Delusional enough to believe I can change the world—and driven enough to try." ⚡
 
-### 📊 My Coding Progress
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
-
----
-
-### ✌️ Let's be friends!
-"I’m just 16 and I’m just getting started. If you want to collaborate or just talk about why Python is the best, hit me up!"
-
-*Made with love (and way too much coffee) by Umaimah* 😚
+*Peace out! 😚*
