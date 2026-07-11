@@ -17,7 +17,7 @@ I’m a 16-year-old developer with a serious passion for Python and a healthy do
 ### 🚀 My Projects
 Check out what I’m building:
 
-**[Fee Management System](https://github.com/Umaimah/fee-management-system)** 💰
+**[Fee Management System](https://github.com/umaimahismail90-code/THE-TRY)** 💰
 *   An automated tool for calculating student fees based on grade levels.
 *   *Built with: Python*
 
