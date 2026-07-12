@@ -10,7 +10,6 @@ I’m a 16-year-old developer with a serious passion for Python and a healthy do
 | **Python** | My coding soulmate 🐍 |
 | **C** | The sturdy foundation ⚙️ |
 | **HTML** | Making it look good 🌐 |
-| **Anaconda** | My upcoming "Final Boss" level 🧪 |
 
 ---
 
