@@ -19,6 +19,7 @@ Check out what I’m building:
 **[Fee Management System](https://github.com/umaimahismail90-code/THE-TRY)** 💰
 *   An automated tool for calculating student fees based on grade levels.
 *   *Built with: Python*
+--------------------------------------- 
 **[Virtual Bank Account](https://github.com/umaimahismail90-code/Virtual-bank-account)** 🏦
 *   An interactive CLI application to simulate deposits, withdrawals, and balance management.
 *   *Built with: Python*
