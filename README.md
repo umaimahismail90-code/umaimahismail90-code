@@ -23,9 +23,7 @@ Check out what I’m building
 **[Input Sanitization Tool](https://github.com/umaimahismail90-code/-input-sanitization-tool)** 🧹
 * An interactive CLI application to process user input, handle invalid data types using exceptions, and output a filtered list of positive numbers.
 * *Built with: Python*
-
-* *Built with: Python*
-
+* 
 ---
 
 ### ✌️ Let's Connect!
