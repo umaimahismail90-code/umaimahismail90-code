@@ -19,6 +19,13 @@ Check out what I’m building
 **[Virtual Bank Account](https://github.com/umaimahismail90-code/Virtual-bank-account)** 🏦
 *   An interactive CLI application to simulate deposits, withdrawals, and balance management.
 *   *Built with: Python*
+   
+**[Input Sanitization Tool](https://github.com/umaimahismail90-code/-input-sanitization-tool)** 🧹
+* An interactive CLI application to process user input, handle invalid data types using exceptions, and output a filtered list of positive numbers.
+* *Built with: Python*
+
+* *Built with: Python*
+
 ---
 
 ### ✌️ Let's Connect!
